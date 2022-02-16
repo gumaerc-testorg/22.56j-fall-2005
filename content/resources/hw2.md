@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains 2 problems based on MATLAB code.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/f15d0ddb1916ee47e795bc17d5498882_hw2.pdf
+file: /media/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/f15d0ddb1916ee47e795bc17d5498882_hw2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw2.pdf
 uid: f15d0ddb-1916-ee47-e795-bc17d5498882
