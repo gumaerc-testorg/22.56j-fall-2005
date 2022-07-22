@@ -5,6 +5,7 @@ file: /courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/db6c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw3.pdf
 uid: db6ce4dc-4516-d4ee-c684-384df0530c2f
 ---
 This resource contains 2 problems based on MATLAB code.
-

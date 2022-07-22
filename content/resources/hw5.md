@@ -5,6 +5,7 @@ file: /courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/dd8e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw5.pdf
 uid: dd8e3763-20cc-147c-fda1-887e44fcbc98
 ---
 This resource contains 2 problems based on spatial resolution.
-

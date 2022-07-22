@@ -5,6 +5,7 @@ file: /courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/39b1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw6.pdf
 uid: 39b1a81c-2863-d2ff-cef5-ee93af326a77
 ---
 This resource contains 2 problems based on gamma rays and PET scanner.
-
