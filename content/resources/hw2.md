@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains 2 problems based on MATLAB code.
 file: /courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/f15d0ddb1916ee47e795bc17d5498882_hw2.pdf
+file_size: 193920
 file_type: application/pdf
 learning_resource_types:
 - Assignments
