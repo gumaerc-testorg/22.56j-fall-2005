@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 2 problems based on wavelenghts of photons.
-file: /courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/f1c4d9d5e7b5836459a5d1a167e8fa55_hw1.pdf
+file: /ol-ocw-studio-app/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/f1c4d9d5e7b5836459a5d1a167e8fa55_hw1.pdf
 file_size: 199299
 file_type: application/pdf
 learning_resource_types:
