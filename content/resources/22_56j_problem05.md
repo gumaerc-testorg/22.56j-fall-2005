@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains all the 10 homework problems for the course.
-file: /ol-ocw-studio-app/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/34bbc420c5a78a49399b4afc66ab6e8e_22_56j_problem05.pdf
+file: /courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/34bbc420c5a78a49399b4afc66ab6e8e_22_56j_problem05.pdf
 file_size: 57082
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 2 problems based on MATLAB code.
-file: /ol-ocw-studio-app/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/db6ce4dc4516d4eec684384df0530c2f_hw3.pdf
+file: /courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/db6ce4dc4516d4eec684384df0530c2f_hw3.pdf
 file_size: 203628
 file_type: application/pdf
 learning_resource_types:
