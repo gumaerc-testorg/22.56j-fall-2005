@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 2 problems based on spatial resolution.
-file: /courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/dd8e376320cc147cfda1887e44fcbc98_hw5.pdf
+file: /ol-ocw-studio-app/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/dd8e376320cc147cfda1887e44fcbc98_hw5.pdf
 file_size: 193267
 file_type: application/pdf
 learning_resource_types:
