@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 2 problems based on pulse sequence.
-file: /courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/09db11bff7d8103c172132889408de87_hw8.pdf
+file: /ol-ocw-studio-app/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/09db11bff7d8103c172132889408de87_hw8.pdf
 file_size: 210705
 file_type: application/pdf
 learning_resource_types:
